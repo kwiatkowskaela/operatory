@@ -9,7 +9,6 @@ if (result > 0) {
     console.log('wynik dodatni');
 } else if (result < 0) {
     alert('wynik ujemny');
-    alert('wynik ujemny');
     console.log('wynik ujemny');
 } else {
     alert('wynik jest równy zero');
